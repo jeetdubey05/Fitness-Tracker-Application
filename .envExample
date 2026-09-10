@@ -1,2 +1,3 @@
-DATABASE_USERNAME=your database username
-r database password
+// that how you give environment file and don't forget to add environment variable file in run configuration intellij
+DATABASE_USERNAME=your own database username
+DATABASE_PASSWORD=your own database  password
